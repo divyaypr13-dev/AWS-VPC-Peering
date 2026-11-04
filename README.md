@@ -81,7 +81,7 @@ See `Divya_K_EWB_project.pdf` for the project documentation.
 
 ## Project Report
 
-[View Project PDF](Pratik_Sambhaji_Gorule_EWB_VPC_Peering.pdf)
+[View Project PDF](Divya_K_EWB_project.pdf)
 
 ## Author
 
