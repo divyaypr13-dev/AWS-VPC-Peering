@@ -77,7 +77,7 @@ See `Divya_K_EWB_project.pdf` for the project documentation.
 ![App Security Group](vpc-a-app-sg.png)
 
 ### EC2 Instances and Connectivity
-![Bastion to App-B Ping](bastion%20to%20app%20bping%20success.png)
+![Bastion to App-B Ping](bastion to app bping sucsses.png)
 
 ## Project Report
 
