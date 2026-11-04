@@ -1,6 +1,6 @@
 # AWS VPC Peering Project
 
-**Author:** Pratik Sambhaji Gorule  
+**Author:** Divya K  
 **AWS Region:** Mumbai (`ap-south-1`)  
 **Project Type:** AWS Networking Hands-on Project
 
@@ -54,7 +54,7 @@ The project covers VPC creation, subnet configuration, route tables, security gr
 
 ## Project Report
 
-See `Pratik_Sambhaji_Gorule_EWB_VPC_Peering.pdf` for the project documentation.
+See `Divya_K_EWB_project.pdf` for the project documentation.
 
 ## Project Screenshots
 
@@ -85,4 +85,4 @@ See `Pratik_Sambhaji_Gorule_EWB_VPC_Peering.pdf` for the project documentation.
 
 ## Author
 
-Pratik Sambhaji Gorule
+Divya K
